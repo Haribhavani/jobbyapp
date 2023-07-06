@@ -1,0 +1,34 @@
+.nav-con {
+  background-color: #272727;
+  padding: 10px;
+}
+.ul-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  list-style: none;
+}
+.logo-con {
+  margin-left: 20px;
+}
+.home-con {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  list-style: none;
+  width: 20%;
+}
+.heading {
+  color: #ffffff;
+  font-size: 25px;
+  font-weight: bold;
+}
+.button {
+  background-color: blue;
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: bold;
+}
+.icon {
+  width: 200%;
+}

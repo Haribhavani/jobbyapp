@@ -1,0 +1,18 @@
+.job-item-con {
+  list-style: none;
+  background-color: #272727;
+  border-radius: 10px;
+  padding: 15px;
+  margin-bottom: 20px;
+  color: #ffffff;
+}
+.img-con {
+  display: flex;
+  flex-direction: row;
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+.logo {
+  width: 80px;
+  height: 80px;
+}

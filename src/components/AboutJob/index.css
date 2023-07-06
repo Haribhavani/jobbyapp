@@ -1,0 +1,19 @@
+.job-detail-view-con {
+  background-color: #000000;
+  flex-grow: 1;
+  padding: 40px;
+}
+.job-item-con {
+  list-style-type: none;
+  background-color: #272727;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  padding: 15px;
+  color: white;
+  font-family: 'Roboto';
+}
+.image-con {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 15px;
+}
